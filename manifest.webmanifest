@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "بوشهر تصفیه | مدیریت مشتریان و سرویس",
+  "short_name": "بوشهر تصفیه",
+  "description": "مدیریت مشتریان، تاریخچه سرویس‌ها و یادآورهای شمسی دستگاه‌های تصفیه آب",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef7fc",
+  "theme_color": "#0876b9",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
