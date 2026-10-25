@@ -1,1 +1,0 @@
-# Bushehr_tasfiye
